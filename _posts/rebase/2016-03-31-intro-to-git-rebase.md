@@ -3,7 +3,7 @@ layout: post
 title: Introduction to git rebase
 date: 2016-03-31
 author: Ishan Khare
-categories: Tutorial
+categories: git
 ---
 
 {% assign icons = site.data.icons %}
